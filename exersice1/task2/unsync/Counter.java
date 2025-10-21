@@ -1,4 +1,4 @@
-package exersice1.task2;
+package exersice1.task2.unsync;
 
 class Counter {
     private int c = 0; 
