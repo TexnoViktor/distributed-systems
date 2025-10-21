@@ -1,9 +1,9 @@
 package task1;
 
-public class simpleTask  implements Runnable{
+class SimpleTask  implements Runnable{
     private String taskName;
     
-    public simpleTask(String Name){
+    public SimpleTask(String Name){
         this.taskName = Name;
     }
 
