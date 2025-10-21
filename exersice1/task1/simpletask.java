@@ -1,4 +1,4 @@
-package task1;
+package exersice1.task1;
 
 class SimpleTask  implements Runnable{
     private String taskName;

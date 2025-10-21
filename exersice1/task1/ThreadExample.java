@@ -1,4 +1,4 @@
-package task1;
+package exersice1.task1;
 
 public class ThreadExample {
     public static void main(String[] args) {
